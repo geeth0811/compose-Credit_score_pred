@@ -1,0 +1,21 @@
+# Docker Demo/Assignment by Geeth
+
+https://github.com/PGCSEDS-IIITH/compose-iris contains code which demonstrates docker and docker-compose using the Credit_score dataset 
+
+
+
+## Pre-requisites
+- Install `docker`
+- Install `docker-compose`
+
+## Running Instructions
+- Create a fork of the repo using the `fork` button.
+- Clone your fork using `git clone https://www.github.com/geeth0811/compose-credit.git`
+- Build the images using `docker-compose build`
+- Spin up the containers using `docker-compose up`
+
+## Assignment Task
+Implement this stack for some dataset of your choice
+
+## Submission
+Submit a link to your forked repository
